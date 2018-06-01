@@ -1,2 +1,3 @@
 # python_sockets_practice
-python_socket_practice
+Practice socket with multithreading and build a simple chatroom.
+
